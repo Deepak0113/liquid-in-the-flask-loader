@@ -15,5 +15,4 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # liquid-in-the-flask-loader
-
-![](img&vid/screen_record.mp4)
+<img src="img&vid/screen_record.gif" title="liquid in flask loader" height="500px"/>
